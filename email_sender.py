@@ -145,7 +145,7 @@ grab_text = Button(button_frame, text='Confirmar nome do arquivo!', command=grab
 grab_text.grid(row=0, column=0, pady=20)
 
 # Creating a label to explain the Send E-mail button
-my_label3 = Label(root, text="5. Clique no botão 'Enviar e-mail!'.\n"
+my_label3 = Label(root, text="5. Clique no botão 'Enviar e-mail!'.\n")
 my_label3.pack(pady=5)
 
 # Creating a second button frame
